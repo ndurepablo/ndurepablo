@@ -1,5 +1,4 @@
 ### Hey👋
-Welcome to my page!  
 I'm Pablo, Python developer from 🇦🇷 **Buenos Aires, Argentina.**
 ### Tech & Tools Preference
 
